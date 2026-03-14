@@ -62,7 +62,7 @@
 
 ---
 ## รููปภาพ
-<img width="474" height="1008" alt="Image" src="https://github.com/user-attachments/assets/ee13415d-8b4b-469b-a232-1ec93f7bab0d" />
+<img width="477" height="1002" alt="Image" src="https://github.com/user-attachments/assets/04a322dc-cec4-41cc-ad97-66aa348ec690" />
 <img width="480" height="1007" alt="Image" src="https://github.com/user-attachments/assets/37a3c2e4-52e9-46dc-b877-3d174d95daa8" />
 <img width="483" height="1012" alt="Image" src="https://github.com/user-attachments/assets/9eb38a0a-7372-44b4-a9ae-47365f32f7a4" />
 ## 💻 วิธีรันโปรเจกต์ (How to Run)
