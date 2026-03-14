@@ -65,6 +65,8 @@
 <img width="477" height="1002" alt="Image" src="https://github.com/user-attachments/assets/04a322dc-cec4-41cc-ad97-66aa348ec690" />
 <img width="480" height="1007" alt="Image" src="https://github.com/user-attachments/assets/37a3c2e4-52e9-46dc-b877-3d174d95daa8" />
 <img width="483" height="1012" alt="Image" src="https://github.com/user-attachments/assets/9eb38a0a-7372-44b4-a9ae-47365f32f7a4" />
+<img width="489" height="1008" alt="Image" src="https://github.com/user-attachments/assets/22c633a5-019a-4098-a2b8-79a4bf3e45a8" />
+<img width="531" height="1009" alt="Image" src="https://github.com/user-attachments/assets/30ce139d-2b54-4916-af0f-54c3d5b4340b" />
 ## 💻 วิธีรันโปรเจกต์ (How to Run)
 
 1. ตรวจสอบให้แน่ใจว่าติดตั้ง Flutter SDK และตั้งค่า Emulator หรือเสียบสายเชื่อมต่อกับสมาร์ทโฟนเรียบร้อยแล้ว
